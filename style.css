@@ -1,0 +1,66 @@
+.carousel-text {
+    position: absolute;
+    max-width: 600px;
+    left: 56%;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(253, 253, 253, 0.5);
+    color: #131111;
+    padding: 20px;
+    text-align: left;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.text_service {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    margin: 50px;
+    color: coral;
+}
+
+.text_phone {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    padding-left: 5px;
+    margin: 0;
+    color: coral;
+    text-decoration: none;
+}
+
+.certificate-block {
+    padding: 20px;
+    margin-bottom: 10px;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+  }
+
+  .certificate-block:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: 0.3s; 
+  }
+
+  .card:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: 0.3s; 
+  }
+
+  .map {
+    width: 600px;
+    height: 500px;
+    border-radius: 30px;
+  }
+
+  .map:hover{
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: 0.3s; 
+  }
